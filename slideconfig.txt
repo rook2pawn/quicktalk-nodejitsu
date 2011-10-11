@@ -1,0 +1,11 @@
+BACKGROUNDCOLOR=#FFFFFF
+slide slide1.ps
+slide slide2.ps
+slide slide3.ps
+slide slide4.ps
+slide slide5.ps
+slide slide6.ps
+slide slide7.ps
+slide slide8.ps
+slide slide9.ps
+slide slide10.ps
